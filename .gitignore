@@ -1,0 +1,31 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# Results — CSVs and JSON logs stay local
+results/*.csv
+results/*.json
+results/*.pt
+
+# PyCharm
+.idea/
+
+# Data — CIFAR-10 downloads
+data/
+
+# Experiment artifacts
+experiments/data/
+experiments/results/
+
+# Paper 3 artifacts — not part of this repo
+maya_cl_full_dump.txt
+maya_cl_paper3_report.html
+maya_dashboard.py
+generate_report.py
+
+# Checkpoints
+*.pth
+*.ckpt
