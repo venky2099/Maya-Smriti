@@ -40,7 +40,7 @@ Maya-Smriti extends the Maya affective SNN architecture to **Class-Incremental L
 
 Full experimental results visualised as a self-contained interactive dashboard — ablation study, accuracy matrices, Buddhi S-curve, V-fc1 consolidation trajectory, Bhaya quiescence panel, and Vedantic architecture overview.
 
-📊 **[maya_smriti_dashboard.html](maya_smriti_dashboard.html)** — download and open in any browser. No server required, no dependencies.
+📊 **[Download Dashboard](https://raw.githubusercontent.com/venky2099/Maya-Smriti/master/maya_smriti_dashboard.html)** — download and open in any browser. No server required.
 
 ---
 
