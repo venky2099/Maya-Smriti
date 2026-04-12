@@ -1,0 +1,18 @@
+﻿cff-version: 1.2.0
+title: "Maya-Smriti: Episodic Memory as a Biological Prior for Class-Incremental Learning in Affective SNNs"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Swaminathan
+    given-names: Venkatesh
+    orcid: "https://orcid.org/0000-0002-3315-7907"
+    affiliation: "Nexus Learning Labs, Bengaluru"
+repository-code: "https://github.com/venky2099/Maya-Smriti"
+doi: 10.5281/zenodo.19228975
+date-released: "2026-03-26"
+license: MIT
+keywords:
+  - episodic memory
+  - continual learning
+  - spiking neural networks
+  - Maya Research Series
